@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsanapuramVenugopal
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python full stack development 
-- 💞️ I’m looking to collaborate on with people 
+- 👀 I’m interested in python,oracle,front end development (Html & Css)
+- 🌱 I done with python full stack development 
+- 💞️ I’m looking to collaborate on with people
 - 📫 How to reach me as a good python developer 
 
 <!---
