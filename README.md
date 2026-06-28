@@ -28,34 +28,30 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & ML
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50" height="50" alt="TensorFlow / ML" title="Machine Learning" />
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" height="50" alt="PyTorch / AI" title="Artificial Intelligence" />
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="50" height="50" alt="OpenAI / Gen AI" title="Generative AI" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="50" height="50" alt="Agentic AI" title="Agentic AI" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="Machine Learning" title="Machine Learning" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="Artificial Intelligence" title="Artificial Intelligence" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Generative AI" title="Generative AI (Python ecosystem)" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="Agentic AI" title="Agentic AI" /></a>
 </p>
 
 ### 💻 Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="SQL" title="SQL" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="SQL" title="SQL" /></a>
 </p>
 
 ### 🌐 Frontend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" alt="CSS3" title="CSS3" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" title="HTML5" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" title="CSS3" /></a>
 </p>
 
 ### 🔧 Tools & Version Control
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code" title="VS Code" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" title="VS Code" /></a>
 </p>
 
 ---
