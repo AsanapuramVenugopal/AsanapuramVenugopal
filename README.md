@@ -29,7 +29,7 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 ### 🤖 AI & ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda&theme=dark" />
 </p>
 
 ### 💻 Languages
@@ -51,14 +51,20 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 ## 📱 Social Media & Connect
 
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-46%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Venu0916_2K)
-[![Instagram](https://img.shields.io/badge/Instagram-214%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/name.is_venu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venugopal-nxtai2026/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://asanapuramvenugopal.github.io/Portfolio-venu/)
-
-</div>
+<p align="left">
+  <a href="https://www.youtube.com/@Venu0916_2K" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="50" height="50" alt="YouTube" title="YouTube - 46 Subscribers" />
+  </a>
+  <a href="https://www.instagram.com/name.is_venu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" height="50" alt="Instagram" title="Instagram - 214 Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/venugopal-nxtai2026/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://asanapuramvenugopal.github.io/Portfolio-venu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50" alt="Portfolio" title="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -83,7 +89,7 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AsanapuramVenugopal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AsanapuramVenugopal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -111,6 +117,6 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 *Thanks for visiting my profile! Drop a ⭐ on any repo you find interesting!*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Down.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
