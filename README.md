@@ -28,29 +28,34 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & ML
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00C8FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-7B2FFF?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-00E676?style=for-the-badge&logo=google-gemini&logoColor=black" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50" height="50" alt="TensorFlow / ML" title="Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50" height="50" alt="PyTorch / AI" title="Artificial Intelligence" />
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="50" height="50" alt="OpenAI / Gen AI" title="Generative AI" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="50" height="50" alt="Agentic AI" title="Agentic AI" />
 </p>
 
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="SQL" title="SQL" />
 </p>
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" alt="CSS3" title="CSS3" />
 </p>
 
-### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### 🔧 Tools & Version Control
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code" title="VS Code" />
 </p>
 
 ---
