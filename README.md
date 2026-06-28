@@ -29,29 +29,22 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 ### 🤖 AI & ML
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="Machine Learning" title="Machine Learning" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="Artificial Intelligence" title="Artificial Intelligence" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Generative AI" title="Generative AI (Python ecosystem)" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="Agentic AI" title="Agentic AI" /></a>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda&theme=dark" />
 </p>
 
 ### 💻 Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="SQL" title="SQL" /></a>
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 </p>
 
 ### 🌐 Frontend
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" title="HTML5" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" title="CSS3" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 ### 🔧 Tools & Version Control
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" title="VS Code" /></a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
