@@ -16,7 +16,8 @@
 
 I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** with **1 year 9 months** of experience in the AI/ML space. I bridge the gap between cutting-edge research and real-world applications, while sharing my journey through content creation.
 
-- 🔭 Currently working on **Agentic AI** and **Generative AI** projects
+- 🎙️ Currently working as **Conference Manager** at **NXT AI-2026 Conference** — scheduled in **Boston, MA**
+- 🔍 Actively searching for roles in **AI & ML**
 - 🎬 Content Creator on **YouTube** (46 subscribers) & **Instagram** (214 followers)
 - 🌱 Always learning the latest in **AI, ML, and emerging tech**
 - 💡 Passionate about making AI accessible and understandable
