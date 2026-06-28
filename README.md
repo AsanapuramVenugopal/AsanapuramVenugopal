@@ -28,22 +28,24 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=azureml&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C7B7?style=for-the-badge&logo=probot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Backend / Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -53,7 +55,7 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 [![YouTube](https://img.shields.io/badge/YouTube-46%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Venu0916_2K)
 [![Instagram](https://img.shields.io/badge/Instagram-214%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/name.is_venu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venugopal-nxtai2026/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venugopal-nxtai2026/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://asanapuramvenugopal.github.io/Portfolio-venu/)
 
 </div>
