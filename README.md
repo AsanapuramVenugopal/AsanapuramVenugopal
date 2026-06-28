@@ -29,22 +29,22 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 ### 🤖 AI & ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" />
 </p>
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 </p>
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 ### 🔧 Tools & Version Control
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -52,18 +52,18 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 ## 📱 Social Media & Connect
 
 <p align="left">
-  <a href="https://www.youtube.com/@Venu0916_2K" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="YouTube"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/name.is_venu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/venugopal-nxtai2026/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://asanapuramvenugopal.github.io/Portfolio-venu/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="40" alt="Portfolio"/>
-  </a>
+<a href="https://www.youtube.com/@Venu0916_2K" target="_blank">
+<img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="48" height="48" alt="YouTube"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/name.is_venu/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="48" alt="Instagram"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/venugopal-nxtai2026/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://asanapuramvenugopal.github.io/Portfolio-venu/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="Portfolio"/>
+</a>
 </p>
 
 ---
