@@ -77,7 +77,7 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎖️ GitHub Trophies
 
 <div align="center">
 
