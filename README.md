@@ -6,7 +6,7 @@
 
 # Hello, I'm Venu Gopal! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Research+Analyst+%7C+Conference+Manager;AI+%7C+ML+%7C+Agentic+AI+Explorer;Building+the+Future+with+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&multiline=true&width=600&height=120&lines=Research+Analyst+%7C+Conference+Manager;AI+%7C+ML+%7C+Agentic+AI+Explorer;Building+the+Future+with+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
