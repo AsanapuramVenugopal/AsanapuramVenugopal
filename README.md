@@ -53,16 +53,16 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 <p align="left">
 <a href="https://www.youtube.com/@Venu0916_2K" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="48" height="48" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="50" alt="YouTube"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/name.is_venu/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="48" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="50" alt="Instagram"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/venugopal-nxtai2026/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="50" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="https://asanapuramvenugopal.github.io/Portfolio-venu/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=githubpages&logoColor=white" height="50" alt="Portfolio"/>
 </a>
 </p>
 
