@@ -34,7 +34,7 @@ I'm **Venu Gopal** — a passionate **Research Analyst & Conference Manager** wi
 
 ### 💻 Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgresql&theme=dark" />
 </p>
 
 ### 🌐 Frontend
